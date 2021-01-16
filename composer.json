@@ -1,5 +1,5 @@
 {
-    "name": "dpsoft/number-format",
+    "name": "dpsoft/nova-number-format",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
