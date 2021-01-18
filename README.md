@@ -3,7 +3,16 @@
 
 `number_fromat values  for index view ,Detail view and Forms, especially on typing values`
 
+## Installation
 
+You can install the nova theme into a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
+
+```bash
+composer require dpsoft/nova-number-format
+```
+
+
+## Usage
 ~~~~
 <?php
 
@@ -28,8 +37,7 @@ class Credit extends Resource
     }
 ~~~~
 
+## Screenshots
 
 
-
-
-![](https://mygitlab.ir/dpsoft/nova-number-format/-/blob/master/number_fromat.gif)
+![nova-number-format](number_fromat.gif) 
