@@ -40,4 +40,4 @@ class Credit extends Resource
 ## Screenshots
 
 
-![nova-number-format](number_fromat.gif) 
+![nova-number-format](https://mygitlab.ir/dpsoft/nova-number-format/-/blob/master/number_fromat.gif) 
