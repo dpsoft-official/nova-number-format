@@ -26,3 +26,10 @@ class Credit extends Resource
             NumberFormat::make('Amount', 'amount')->required(),
         ];
     }
+~~~~
+
+
+
+
+
+![](https://mygitlab.ir/dpsoft/nova-number-format/-/blob/master/number_fromat.gif)
